@@ -1,0 +1,847 @@
+# Echoes of the Atlas - Atlas Passives Trees
+
+## Notable Passives by Region by League
+---
+### Heawark Hamlet
+- heawark-hamlet:
+  - beyond:
+    - power-hungry:
+      - per-diemon
+  - betrayal:
+    - focussed-investigation:
+      - intelligence-gathering
+      - bribery
+  - essence:
+    - controlled-corruption:
+      - amplified
+  - harvest:
+    - the-groves-call:
+      - natures-favour
+      - wild-fruit
+### Tirn's End
+- tirns-end:
+  - bestiary:
+    - big-game:
+      - great-migration
+  - delirium:
+    - that-which-you-seek:
+      - the-singular-eternity
+      - greater-focus
+  - invasion:
+    - trespassers:
+      - exotic-goods
+  - abyss:
+    - underground-kingdom:
+      - buried-riches
+      - lightless-legion
+### Lex Proxima
+- lex-proxima:
+  - torment:
+    - seance
+  - harvest:
+    - bumper-crop:
+      - heart-of-the-grove
+    - bountiful-harvest
+  - delve:
+    - rich-veins:
+      - packed-with-energy
+      - sulphite-infusion
+  - breach:
+    - invading-force
+    - gatekeepers:
+      - within-theit-grasp
+### Lex Ejoris
+- lex-ejoris:
+  - incursion:
+    - time-and-again:
+      - time-dilation
+    - vaal-oligarch
+  - metamorph:
+    - escaped-experiments:
+      - finest-samples
+  - perandus:
+    - prosperos-promise:
+      - friend-of-the-family
+  - delirium:
+    - pathological:
+      - compulsive-hoarder
+      - persecutory-delusion
+### Glennach Cairns
+- glennach-cairns:
+  - beyond:
+    - scent-of-blood:
+      - torn-veil
+  - legion:
+    - monumental:
+      - face-to-face
+      - protracted-battle
+  - incursion:
+    - cultural-advancement
+    - resource-reallocation:
+      - contested-development
+  - ambush:
+    - twice-tempted:
+      - tamper-proof
+### New Vastir
+- new-vastir:
+  - abyss:
+    - abyssal-army:
+      - votive-hoard
+  - delve:
+    - mad-devotion:
+      - out-of-the-blue
+      - sulphite-sentinels
+  - legion:
+    - high-value-targets
+    - war-supplies:
+      - emblematic
+  - anarchy:
+    - total-anarchy:
+      - rogue-trader
+### Valdo's Rest
+- valdos-rest:
+  - blight:
+    - outbreak:
+      - blight-titans
+      - mass-mycelium
+  - betrayal:
+    - gut-instinct
+    - test-of-loyalty
+  - metamorph:
+    - intrinsic-darkness:
+      - repeated-experiment
+      - high-yield
+  - harbinger:
+    - ominous-arrival:
+      - diplomatic-escort
+### Lira Arthain
+- lira-arthain:
+  - blight:
+    - spores-on-the-wind:
+      - epidemiology
+    - immune-response
+  - breach:
+    - probing-for-weaknesses:
+      - flash-breach
+  - bestiary:
+    - animal-companion:
+      - natural-selection
+      - mighty hunter
+  - heist:
+    - secret-stash:
+      - inside-job
+
+
+
+## Notable Passives by League by Region
+---
+### Abyss
+- abyss:
+  - tirns-end:
+    - underground-kingdom:
+      - buried-riches
+      - lightless-legion
+  - new-vastir:
+    - abyssal-army:
+      - votive-hoard
+### Ambush
+- ambush:
+  - glennach-cairns:
+    - twice-tempted:
+      - tamper-proof
+### Anarchy
+- anarchy:
+  - new-vastir:
+    - total-anarchy:
+      - rogue-trader
+### Bestiary
+- bestiary:
+  - tirns-end:
+    - big-game:
+      - great-migration
+  - lira-arthain:
+    - animal-companion:
+      - natural-selection
+      - mighty hunter
+### Betrayal
+- betrayal:
+  - haewark-hamlet:
+    - focussed-investigation:
+      - intelligence-gathering
+      - bribery
+  - valdos-rest:
+    - gut-instinct
+    - test-of-loyalty
+### Beyond
+- beyond:
+  - haewark-hamlet:
+    - power-hungry:
+      - per-diemon
+  - glennach-cairns:
+    - scent-of-blood:
+      - torn-veil
+### Blight
+- blight:
+  - valdos-rest:
+    - outbreak:
+      - blight-titans
+      - mass-mycelium
+  - lira-arthain:
+    - spores-on-the-wind:
+      - epidemiology
+    - immune-response
+### Breach
+- breach:
+  - lex-proxima:
+    - invading-force
+    - gatekeepers:
+      - within-theit-grasp
+  - lira-arthain:
+    - probing-for-weaknesses:
+      - flash-breach
+### Delirium
+- delirium:
+  - tirns-end:
+    - that-which-you-seek:
+      - the-singular-eternity
+      - greater-focus
+  - lex-ejoris:
+    - pathological:
+      - compulsive-hoarder
+      - persecutory-delusion
+### Delve
+- delve:
+  - lex-proxima:
+    - rich-veins:
+      - packed-with-energy
+      - sulphite-infusion
+  - new-vastir:
+    - mad-devotion:
+      - out-of-the-blue
+      - sulphite-sentinels
+### Essence
+- essence:
+  - haewark-hamlet:
+    - controlled-corruption:
+      - amplified
+### Harbinger
+- harbinger:
+  - valdos-rest:
+    - ominous-arrival:
+      - diplomatic-escort
+### Harvest
+- harvest:
+  - haewark-hamlet:
+    - the-groves-call:
+      - natures-favour
+      - wild-fruit
+  - lex-proxima:
+    - bumper-crop:
+      - heart-of-the-grove
+    - bountiful-harvest
+### Heist
+- heist:
+  - lira-arthain:
+    - secret-stash
+      - inside-job
+### Incursion
+- incursion:
+  - lex-ejoris:
+    - time-and-again:
+      - time-dilation
+    - vaal-oligarch
+  - glennach-cairns:
+    - cultural-advancement
+    - resource-reallocation:
+      - contested-development
+### Invasion
+- invasion:
+  - tirns-end:
+    - trespassers:
+      - exotic-goods
+### Legion
+- legion:
+  - glennach-cairns:
+    - monumental:
+      - face-to-face
+      - protracted-battle
+  - new-vastir:
+    - high-value-targets
+    - war-supplies:
+      - emblematic
+### Metamorph
+- metamorph:
+  - lex-ejoris:
+    - escaped-experiments:
+      - finest-samples
+  - valdos-rest:
+    - intrinsic-darkness:
+      - repeated-experiment
+      - high-yield
+### Perandus
+- perandus:
+  - lex-ejoris:
+    - prosperos-promise:
+      - friend-of-the-family
+### Torment
+- torment:
+  - lex-proxima:
+    - seance
+
+
+
+## Notable Passive Data
+---
+### Abyss
+- underground-kingdom:
+  - name: "Underground Kingdom"
+  - effects:
+    - "Areas have 1% chance to contain an Abyss per 2% increased Pack Size"
+    - "Abysses in Areas have 100% increased chance to lead to an Abyssal Depths"
+    - "Abyssal Depths in Areas have 100% increased chance to contain a Lich"
+  - region: tirns-end
+  - requires: none
+- buried-riches:
+  - name: "Buried Riches"
+  - effects:
+    - "Hoards in Abyssal Depths drop additional Basic Currency Items"
+  - region: tirns-end
+  - requires: underground-kingdom
+- lightless-legion:
+  - name: "Lightless Legion"
+  - effects:
+    - "Abyssal Depths in Areas have +3 to Monster Level"
+    - "Abyssal Depths in Areas have 100% more Magic Monsters"
+    - "Abyssal Depths in Areas have 100% more Rare Monsters"
+    - "Abyssal Depths in Areas have 50% increased Pack Size"
+  - region: tirns-end 
+  - requires: underground-kingdom
+- abyssal-army:
+  - name: "Abyssal Army"
+  - effects:
+    - "Abyss Monsters in Areas grant 50% increased Experience"
+    - "Abysses in Areas spawn 100% more Monsters"
+  - region: new-vastir
+  - requires: none
+- votive-hoard:
+  - name: "Votive Hoard"
+  - effects:
+    - "Abyssal Troves in Areas have 10% chance to drop a Rare Item with an Abyssal Socket"
+    - "+3 to Level of Abyssal Troves in Areas"
+    - "Abyssal Troves in Areas have 200% increased Item Quantity"
+  - region: new-vastir
+  - requires: abyssal-army
+### Ambush
+- twice-tempted:
+  - name: "Twice Tempted"
+  - effects:
+    - "Areas contain an extra Strongbox"
+    - "Strongboxes in Areas have a 10% chance to be openable a second time"
+  - region: glennach-cairns
+  - requires: none
+- tamper-proof:
+  - name: "Tamper-Proof"
+  - effects:
+    - "Strongboxes in Areas are Corrupted"
+    - "Strongboxes in Areas are at least Rare"
+  - region: glennach-cairns
+  - requires: twice-tempted
+### Anarchy
+- total-anarchy:
+  - name: "Total Anarchy"
+  - effects:
+    - "Areas contain an additional Rogue Exile for every 2 additional content types applied to Areas"
+  - region: new-vastir
+  - requires: none
+- rogue-trader:
+  - name: "Rogue Trader"
+  - effects:
+    - "Wild Rogue Exiles in Area have 15% chance to have Rewards"
+  - region: new-vastir
+  - requires: total-anarchy
+### Bestiary
+- big-game:
+  - name: "Big Game"
+  - effects:
+    - "Red Beasts in Areas have 15% chance to appear in Pairs"
+    - "Yellow Beasts in Areas have 30% chance to be replaced with Red Beasts"
+  - region: tirns-end
+  - requires: none
+- great-migration:
+  - name: "Great Migration"
+  - effects:
+    - "Einhar Missions in Areas have 5% chance to replace all monsters with Beasts"
+  - region: tirns-end
+  - requires: big-game
+- animal-companion:
+  - name: "Animal Companion"
+  - effects:
+    - "Einhar Missions in Areas grant 100% increased Favour"
+    - "Areas have 10% chance to grant an additional Einhar Mission on Completion"
+  - region: lira-arthain
+  - requires: none
+- natural-selection:
+  - name: "Natural Selection"
+  - effects:
+    - "Beasts in Areas are more likely to be less commin varieties"
+  - region: lira-arthain
+  - requires: animal-companion
+- mighty hunter:
+  - name: "Mighty Hunter"
+  - effects:
+    - "Einhar has 100% increased Cooldown Recovery Rate in Areas"
+    - "Einhar deals 1000% more Damage to Unique Monsters in Areas"
+    - "Einhar remains in Areas after his Mission is Complete"
+  - region: lira-arthain 
+  - requires: animal-companion
+### Betrayal
+- focussed-investigation:
+  - name: "Focussed Investigation"
+  - effects:
+    - "Jun Missions in Areas grant 100% increased Favour"
+    - "Areas have 10% chance to grant an additional Jun Mission on Completion"
+  - region: haewark-hamlet
+  - requires: none
+- intelligence-gathering:
+  - name: "Intelligence Gathering"
+  - effects:
+    - "Completing Maps grants 10 Intelligence for a random Immortal Syndicate Safehouse"
+  - region: haewark-hamlet
+  - requires: focussed-investigation
+- bribery:
+  - name: "Bribery"
+  - effects:
+    - "Immortal Syndicate Members in Areas are 200% more likely to offer to Bargain for Items"
+    - "Immortal Syndicate Members in Areas drop 2 additional Items when Bargained with for Items"
+  - region: haewark-hamlet
+  - requires: focussed-investigation
+- gut-instinct:
+  - name: "Gut Instinct"
+  - effects:
+    - "Defeated Immortal Syndicate Members in Areas grant 3 Intelligence for the current Encounter's Safehouse if not Interrogated"
+  - region: valdos-rest
+  - requires: none
+- test-of-loyalty:
+  - name: "Test of Loyalty"
+  - effects:
+    - "Immortal Syndicate Members Executed have a 100% chance to gain an additional Rank"
+  - region: valdos-rest
+  - requires: none
+### Beyond
+- power-hungry:
+  - name: "Power Hungry"
+  - effects:
+    - "Rare Monsters in Areas spawn an additional Beyond Portal when Slain"
+    - "Unique Bosses in Areas spawn 5 additional Beyond Portals when Slain"
+  - region: haewark-hamlet
+  - requires: none
+- per-diemon:
+  - name: "Per Diemon"
+  - effects:
+    - "Rare Beyond Demons in Areas have 35% chance to drop an additional Basic Currency Item"
+  - region: haewark-hamlet
+  - requires: power-hungry
+- scent-of-blood:
+  - name: "Scent of Blood"
+  - effects:
+    - "Slaying Enemies close together in Areas has a 3% chance to attract monsters from Beyond"
+  - region: glennach-cairns
+  - requires: none
+- torn-veil:
+  - name: "Torn Veil"
+  - effects:
+    - "Powerful Beyond Demons require 1 fewer Portal to summon in Areas"
+    - "Beyond Portals in Areas have 100% increased Merging Radius"
+  - region: glennach-cairns
+  - requires: scent-of-blood
+### Blight
+- outbreak:
+  - name: "Outbreak"
+  - effects:
+    - "Areas have 10% additional chance to contain a Blight Encounter"
+  - region: valdos-rest
+  - requires: none
+- blight-titans:
+  - name: "Blight Titans"
+  - effects:
+    - "Blight Bosses on Areas drop an additional Anointed Jewellery Item"
+    - "Blight Encounters in Areas contain up to 2 additional Blight Bosses"
+  - region: valdos-rest
+  - requires: outbreak
+- mass-mycelium:
+  - name: "Mass Mycelium"
+  - effects:
+    - "Blight Encounters in Areas are more likely to contain multiple Lanes"
+    - "Lanes of Blight Encounters in Areas have 50% chance for an additional Reward Chest"
+  - region: valdos-rest
+  - requires: outbreak
+- spores-on-the-wind:
+  - name: "Spores on the Wind"
+  - effects:
+    - "Maps found in Areas have 10% chance to contain an additional Blight encounter"
+  - region: lira-arthain 
+  - requires: none
+- epidemiology:
+  - name: "Epidemiology"
+  - effects:
+    - "Blight Chests in Areas have 100% more chance to contain Blighted Maps"
+    - "Blighted Maps found in Areas are Anointed"
+  - region: lira-arthain
+  - requires: spores-on-the-wind
+- immune-response:
+  - name: "Immune Response"
+  - effects:
+    - "Blight Encounters in Areas spawn 100% more non-Unique Monsters"
+    - "Blight Monsters in Areas spawn 100% faster"
+  - region: lira-arthain
+  - requires: none
+### Breach
+- invading-force:
+  - name: "Invading Force"
+  - effects:
+    - "Breaches in Areas have 30% increased Area of Effect"
+    - "Breaches in Areas have 30% increased Monster density"
+    - "Breach Monsters in Areas grant 50% increased Experience"
+  - region: lex-proxima 
+  - requires: none
+- gatekeepers:
+  - name: "Gatekeepers"
+  - effects:
+    - "Breaches in Areas have 100% increased chance to contain a Boss"
+    - "Breach Bosses in Areas drop double Breach Splinters"
+    - "Breach Bosses Defeat in Areas have 5% chance to drop a Breachstone"
+  - region: lex-proxima
+  - requires: none
+- within-theit-grasp:
+  - name: "Within Their Grasp"
+  - effects:
+    - "Breach Bosses Defeat in Areas have 5% chance to drop a Breachstone"
+    - "Breachstones dropped by Breach Bosses in Areas have 9% chance to be Chared"
+    - "Breachstones dropped by Breach Bosses in Areas have 3% chance to be Enriched"
+    - "Breachstones dropped by Breach Bosses in Areas have 1% chance to be Pure"
+  - region: lex-proxima
+  - requires: gatekeepers
+- probing-for-weaknesses:
+  - name: "Probing for Weaknesses"
+  - effects:
+    - "Areas have +10% chance to contain Breaches"
+  - region: lira-arthain
+  - requires: none
+- flash-breach:
+  - name: "Flash Breach"
+  - effects:
+    - "Breaches in Areas spawn 10 additional Rare Monsters"
+    - "Breaches in Areas open and close 100% faster"
+  - region: lira-arthain
+  - requires: probing-for-weaknesses
+### Delirium
+- that-which-you-seek:
+  - name: "That Which You Seek"
+  - effects:
+    - "Areas have 10% additional chance to contain a mirror of Delirium"
+  - region: tirns-end
+  - requires: none
+- the-singular-eternity:
+  - name: "The Singular Eternity"
+  - effects:
+    - "Delirium Fog in Areas dissipates 25% slower"
+    - "Delirium Fog in Areas lasts 10 additional seconds before dissipating"
+  - region: tirns-end
+  - requires: that-which-you-seek
+- greater-focus:
+  - name: "Greater Forces"
+  - effects:
+    - "Delirium in Areas increases 50% faster with distance from the mirror"
+  - region: tirns-end
+  - requires: that-which-you-seek
+- pathological:
+  - name: "Pathological"
+  - effects:
+    - "Maps found in Areas have 10% chance to have layers of Delirium"
+  - region: lex-ejoris
+  - requires: none
+- compulsive-hoarder:
+  - name: "Compulsive Hoarder"
+  - effects:
+    - "Delirium Encounters in Areas have 15% chance to generate three additional Reward types"
+  - region: lex-ejoris
+  - requires: pathological
+- persecutory-delusion:
+  - name: "Persecutory Delusion"
+  - effects:
+    - "Delirium Encounters in areas are 100% more likely to spawn Unique Bosses"
+    - "Delirium Bosses in Areas drop 100% increased Simulacrum Splinters"
+    - "Delirium Bosses in Areas habe 100% increased chance to drop Unique Cluster Jewels"
+  - region: lex-ejoris
+  - requires: pathological
+### Delve
+- rich-veins:
+  - name: "Rich Veins"
+  - effects:
+    - "Voltaxic Sulphite Veins and Chests in Areas have 10% change to contain double Sulphite"
+    - "Voltaxic Sulphite Veins and Chests in Areas contain 20% increased Sulphite"
+  - region: lex-proxima
+  - requires: none
+- packed-with-energy:
+  - name: "Packed with Energy"
+  - effects:
+    - "35% increased Damage for each Volcanic Sulphite Vein or Chest found in Areas"
+    - "15% increased Movement Speed for each Voltaxic Sulphite Vein or Chest found in Areas"
+  - region: lex-proxima
+  - requires: rich-veins
+- sulphite-infusion:
+  - name: "Sulphite Infusion"
+  - effects:
+    - "White Tier Maps grant 200 additional Voltaxic Sulphite on Completion"
+    - "Yellow Tier Maps grant 350 additional Voltaxic Sulphite on Completion"
+    - "Red Tier Maps grant 500 additional Voltaxic Sulphite on Completion"
+  - region: lex-proxima
+  - requires: rich-veins
+- mad-devotion:
+  - name: "Mad Devotion"
+  - effects:
+    - "Completing Niko Missions in Areas grant 100% increased Favour"
+    - "Areas have 10% chance to grant an additional Niko Mission on Completion"
+  - region: new-vastir
+  - requires: none
+- out-of-the-blue:
+  - name: "Out of the Blue"
+  - effects:
+    - "Sulphite Veins and Chests in Areas have 5% chance to also contain an equal amount of Azurite"
+  - region: new-vastir
+  - requires: mad-devotion
+- sulphite-sentinels:
+  - name: "Sulphite Sentinels"
+  - effects:
+    - "Sulphite Veins and Chests in Areas are guarded by Sulphite-hoarding Monsters"
+  - region: new-vastir
+  - requires: mad-devotion
+### Essence
+- controlled-corruption:
+  - name: "Controlled Corruption"
+  - effects:
+    - "Corrupting Imprisoned Monsters in Areas cannot release them"
+    - "Areas contain an additional Essence"
+  - region: haewark-hamlet
+  - requires: none
+- amplified:
+  - name: "Amplified"
+  - effects:
+    - "Essences found in Areas are a tier higher"
+  - region: haewark-hamlet
+  - requires: controlled-corruption
+### Harbinger
+- ominous-arrival:
+  - name: "Ominous Arrival"
+  - effects:
+    - "Areas contain an extra Harbinger"
+  - region: valdos-rest
+  - requires: none
+- diplomatic-escort:
+  - name: "Diplomatic Escort"
+  - effects:
+    - "Up to 1 Harbinger in Areas is joined by reinforcements"
+  - region: valdos-rest
+  - requires: ominous-arrival
+### Harvest
+- the-groves-call:
+  - name: "The Grove's Call"
+  - effects:
+    - "Areas have +5% chance to contain The Sacred Grove"
+  - region: haewark-hamlet
+  - requires: none
+- natures-favour:
+  - name: "Nature's Favour"
+  - effects:
+    - "Plants Harvested in Areas give the rarest of 2 chosen Crafting Options"
+  - region: haewark-hamlet
+  - requires: the-groves-call
+- wild-fruit:
+  - name: "Wild Fruit"
+  - effects: "Harvest Plots in Areas have 100% increased chance to grow a Tier 4 Plant"
+  - region: haewark-hamlet
+  - requires: the-groves-call
+- bumper-crop:
+  - name: "Bumper Crop"
+  - effects:
+    - "Harvests in Areas have doubled bonuses to Item Quantity and Rarity"
+    - "The Sacred Grove in Areas contains an additional Harvest"
+  - region: lex-proxima
+  - requires: none
+- heart-of-the-grove:
+  - name: "Heart of the Grove"
+  - effects:
+    - "The Sacred Grove in Areas has 100% increased chance to contain the Heart of the Grove"
+    - "Harvests in Areas have 10% chance for the unchosen crop to not wilt"
+  - region: lex-proxima
+  - requires: bumper-crop
+- bountiful-harvest:
+  - name: "Bountiful Harvest"
+  - effects:
+    - "Harvest Monsters in Areas grant 200% increased Experience"
+    - "Harvested Plants in Areas have 50% chance to spawn an additional Monster"
+  - region: lex-proxima
+  - requires: none
+### Heist
+- secret-stash:
+  - name: "Secret Stash"
+  - effects:
+    - "Areas have 10% additional chance to contain a Smuggler's Cache"
+  - region: lira-arthain
+  - requires: none
+- inside-job:
+  - name: "Inside Job"
+  - effects:
+    - "Blueprints that drop in Areas have 10% chance to be fully Revealed"
+    - "Smuggler's Caches in Areas have 100% increased chance to drop Blueprints"
+  - region: lira-arthain
+  - requires: secret-stash
+### Incursion
+- time-and-again:
+  - name: "Time and Again"
+  - effects:
+    - "Alva Missions in Areas grant 100% increased Favour"
+    - "Areas have 10% chance to grant and additional Alva MIssion on Completion"
+  - region: lex-ejoris
+  - requires: none
+- time-dilation:
+  - name: "Time Dilation"
+  - effects:
+    - "Incursion Architects in Areas drop 1 additional Rare Incursion Item"
+    - "Time gained from Killing is Doubled for Incursions in Area"
+  - region: lex-ejoris
+  - requires: time-dilation
+- vaal-oligarch:
+  - name: "Vaal Oligarchs"
+  - effects: 
+    - "Incursions in Areas contain a Vaal Flesh Merchant"
+  - region: lex-ejoris 
+  - requires: none
+- cultural-advancement:
+  - name: "Cultural Advancement"
+  - effects:
+    - "Incursion Monsters in Areas are at least Magic"
+  - region: glennach-cairns
+  - requires: none
+- resource-reallocation:
+  - name: "Resource Reallocation"
+  - effects:
+    - "Killing non-redident Architects in Areas has 50% chance to add an additional Upgrade to the surviving Architect's Room"
+  - region: glennach-cairns
+  - requires: none
+- contested-development:
+  - name: "Contested Development"
+  - effects:
+    - "Killing resident Architects in Areas adds their Upgrade Tier to the surviving Architect's Room"
+  - region: glennach-cairns 
+  - requires: resource-reallocation
+### Invasion
+- trespassers:
+  - name: "Trespassers"
+  - effects:
+    - "Areas contain addional Invasion bosses"
+  - region: tirns-end
+  - requires: none
+- exotic-goods:
+  - name: "Exotic Goods"
+  - effects:
+    - "Invation Bosses in Areas drop 1 additional valueable Item"
+  - region: tirns-end
+  - requires: trespassers
+### Legion
+- monumental:
+  - name: "Monumental"
+  - effects:
+    - "Areas have 10% additional chance to contain a Legion Encounter"
+  - region: glennach-cairns
+  - requires: none
+- face-to-face:
+  - name: "Face to Face"
+  - effects:
+    - "Legion Encounters in Areas are 100% more likely to include a General"
+    - "Legion Encounters with a General in Areas have both Generals"
+    - "Legion Generals in Areas drop 100% more Timeless Splinters"
+  - region: glennach-cairns
+  - requires: "monumental"
+- protracted-battle:
+  - name: "Protracted Battle"
+  - effects:
+    - "Legion Encounters in Areas have 50% increased Duration"
+    - "Legion Monsters in Areas take 50% increased Damage while in Stasis"
+  - region: glennach-cairns
+  - requires: monumental
+- high-value-targets:
+  - name: "High Value Targets"
+  - effects:
+    - "Legions in Areas contains 3 additional Sergeants"
+    - "Legions Seargents in Areas always have Rewards"
+  - region: new-vastir
+  - requires: none
+- war-supplies:
+  - name: "War Supplies"
+  - effects:
+    - "Each Legion in Areas contains an additional War Hoard"
+  - region: new-vastir
+  - requires: none
+- emblematic:
+  - name: "Emblematic"
+  - effects:
+    - "Timeless Splinters dropped by Legion Monsters in Areas have 1% chance to drop as Timeless Emblems instead"
+  - region: new-vastir 
+  - requires: war-supplies
+### Metamorph
+- escaped-experiments:
+  - name: "Escaped Experiment"
+  - effects:
+    - "Areas contain a rouge Metamorph"
+  - region: lex-ejoris
+  - requires: none
+- finest-samples:
+  - name: "Finest Samples"
+  - effects:
+    - "Metamorphs in Areas deal 50% more Damage"
+    - "Metamorphs in Areas have 100% more Life"
+    - "50% chance for Rewards from Metamorphs in Areas to be Doubled"
+  - region: lex-ejoris
+  - requires: noen
+- intrinsic-darkness:
+  - name: "Intrinsic Darkness"
+  - effects:
+    - "Areas have 10% addidional chance to contain a Metamorph Encounter"
+  - region: valdos-rest
+  - requires: none
+- repeated-experiment:
+  - name: "Repeated Experiment"
+  - effects:
+    - "You can assemble an additional Metamoph in Areas after the first is Dead"
+  - region: valdos-rest
+  - requires: intrinsic-darkness
+- high-yield:
+  - name: "High Yield"
+  - effects:
+    - "Metamorph Bosses which drop an Itemised Sample drop an additional Itemised Sample"
+    - "Metamorph Vat Meters in Areas require 50% less Power to fill"
+  - region: valdos-rest
+  - requires: intrinsic-darkness
+### Perandus
+- prosperos-promise:
+  - name: "Prospero's Promise"
+  - effects:
+    - "Areas contain an additional Perandus Chest"
+    - "Areas have 20% chance to contain Cadiro Perandus"
+  - region: lex-ejoris 
+  - requires: none
+- friend-of-the-family:
+  - name: "Friend of the Family"
+  - effects:
+    - "Cadiro Perandus offers the rarest of 5 chosen Items"
+    - "Cadiro Perandus' Offers cost 20% less Perandus Coins"
+  - region: lex-ejoris
+  - requires: persecutory-delusion
+### Torment
+- seance:
+  - name: "Seance"
+  - effects:
+    - "Up to 20 Rare Monsters in Areas are Possessed and their Minions are Touched"
+  - region: lex-proxima
+  - requires: none
